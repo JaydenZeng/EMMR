@@ -16,7 +16,7 @@ Tensorflow implementation for EMMR
 * or process file by [OpenSimle2.0](https://github.com/audeering/opensmile), Bert, and [Librosa](https://github.com/librosa/librosa). Refer to utils folder.
 
 
-* generate train.pkl and test.pkl
+* generate train.pkl, val.pkl and test.pkl
 ```python 
 python Dataset.py
 ```
